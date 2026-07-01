@@ -1,0 +1,16 @@
+# Frontend
+frontend-electron/node_modules/
+frontend-electron/dist/
+
+# Backend
+chat-backend/uploads/
+chat-backend/target/
+chat-backend/.idea/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+.env
+*.env
